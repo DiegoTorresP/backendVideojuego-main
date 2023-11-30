@@ -3,3 +3,4 @@ pymongo
 flask_pymongo
 Gunicorn
 flask_cors
+waitress
